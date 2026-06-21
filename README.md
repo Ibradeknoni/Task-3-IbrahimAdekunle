@@ -64,9 +64,9 @@ The project demonstrates the use of SQL for data exploration, aggregation, filte
 
 ## Repository Contents
 
-* `Ecommerce_Sales_Analysis.sql` – SQL queries used for analysis
-* `SQL_Ecommerce_Analysis.pdf` – Full project report
-* `screenshots/` – Query outputs and supporting visuals
+- [Ecommerce_Sales_Analysis.sql](./Ecommerce_Sales_Analysis.sql) SQL queries used for analysis
+- [SQL_Ecommerce_Analysis.pdf](./SQL_Ecommerce_Analysis.pdf) Full project report
+
 
 ## Author
 
